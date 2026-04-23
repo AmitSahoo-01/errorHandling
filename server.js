@@ -1,0 +1,7 @@
+import app from "./src/app.js";
+
+
+
+app.listen(3000,()=>{
+    console.log("App is listening to the port 3000");
+});
